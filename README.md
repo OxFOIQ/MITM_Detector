@@ -28,7 +28,7 @@ Install dependencies:
 - python3 OntyFire.py --help / -h
 
 ## Usage
-- python3 OntyFire.py -i < interface >
+- python3 OntyFire.py -i < interface_either_wlan0_or_eth0>
 
 ## Contributing
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements. Please follow the code of conduct in all interactions.
