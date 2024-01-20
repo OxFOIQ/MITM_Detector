@@ -25,10 +25,10 @@ Install dependencies:
   
 
 ## Help
-- Sudo python3 OntyFire.py --help / -h
+- python3 OntyFire.py --help / -h
 
 ## Usage
-- sudo python3 OntyFire.py -i < interface >
+- python3 OntyFire.py -i < interface >
 
 ## Contributing
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements. Please follow the code of conduct in all interactions.
